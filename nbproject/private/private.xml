@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/Gemfile</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/public/hello.html</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/config/routes.rb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/app/views/pages/home.html.erb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/.autotest</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/spec/controllers/pages_controller_spec.rb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/spec/spec_helper.rb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/config/application.rb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/app/controllers/pages_controller.rb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/app/views/pages/about.html.erb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/app/views/pages/contact.html.erb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/app/views/layouts/application.html.erb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/public/stylesheets/custom.css</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/app/views/layouts/_stylesheets.html.erb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/app/views/layouts/_header.html.erb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/app/views/layouts/_footer.html.erb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/spec/requests/layout_links_spec.rb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/app/views/pages/help.html.erb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/app/helpers/pages_helper.rb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/app/helpers/application_helper.rb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/app/controllers/application_controller.rb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/spec/helpers/user_helper_spec.rb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/Rakefile</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/config/environments/development.rb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/config/environments/production.rb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/config/environments/test.rb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/script/rails</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/spec/controllers/users_controller_spec.rb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/app/views/users/new.html.erb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/app/controllers/users_controller.rb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/app/views/shared/_error_messages.html.erb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/spec/requests/user_spec.rb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/app/models/user.rb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/spec/models/user_spec.rb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/spec/controllers/sessions_controller_spec.rb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/app/controllers/sessions_controller.rb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/app/views/sessions/new.html.erb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/app/helpers/sessions_helper.rb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/app/views/users/edit.html.erb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/spec/requests/friendly_forwardings_spec.rb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/app/views/users/index.html.erb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/lib/tasks/sample_data.rake</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/spec/factories.rb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/app/views/users/_user.html.erb</file>
+    </open-files>
+</project-private>
