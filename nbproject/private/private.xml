@@ -46,5 +46,13 @@
         <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/lib/tasks/sample_data.rake</file>
         <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/spec/factories.rb</file>
         <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/app/views/users/_user.html.erb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/app/models/micropost.rb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/spec/models/micropost_spec.rb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/app/views/users/show.html.erb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/app/views/microposts/_micropost.html.erb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/spec/controllers/microposts_controller_spec.rb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/app/controllers/microposts_controller.rb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/app/views/shared/_micropost_form.html.erb</file>
+        <file>file:/Users/eastagile/Maxxx/RailsProjs/sample_app/app/views/shared/_user_info.html.erb</file>
     </open-files>
 </project-private>
